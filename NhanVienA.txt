@@ -1,1 +1,3 @@
 Tao nhanh nhan vien A
+
+Noi dung tren nhanh A
