@@ -1,6 +1,10 @@
 Dong thu 1 may tinh 1
+<<<<<<< HEAD
 
 Dong thu 2 may tinh 1
 
 Dong thu 3 may tinh 2
 
+=======
+Dong thu 2 may tinh 1
+>>>>>>> ab7a2a4489e6d3c7337bdef1ac733bcd074f79eb
