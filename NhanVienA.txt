@@ -5,3 +5,5 @@ Noi dung tren nhanh A
 Lo tay thay doi ==> Dua len stage ma chua len server
 
 Dung GIT  GUI here
+
+Lan 1
