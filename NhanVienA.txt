@@ -6,4 +6,4 @@ Lo tay thay doi ==> Dua len stage ma chua len server
 
 Dung GIT  GUI here
 
-Lan 1
+Them lan 1
