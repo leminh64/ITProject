@@ -1,1 +1,3 @@
 Noi dung thu nhat
+
+Merge 2 nhanh
